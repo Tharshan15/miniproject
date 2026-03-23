@@ -1,0 +1,5 @@
+{
+  "name": "Handwritten Note Analyzer AI",
+  "description": "An agentic AI system that analyzes handwritten student notes to extract text, identify key topics, and provide personalized learning suggestions.",
+  "requestFramePermissions": ["camera"]
+}
